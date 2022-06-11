@@ -9,7 +9,6 @@ commands:
   geyser:
     description: The main command for Geyser.
     usage: /geyser <subcommand>
-<<<<<<< HEAD
 permissions:
   geyser.command.help:
     description: Shows help for all registered commands.
